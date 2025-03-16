@@ -1,0 +1,17 @@
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\bin\Debug\net8.0\ToDoListApp.Dal.deps.json
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\bin\Debug\net8.0\ToDoListApp.Dal.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\bin\Debug\net8.0\ToDoListApp.Dal.pdb
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\bin\Debug\net8.0\ToDoListApp.Core.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\bin\Debug\net8.0\ToDoListApp.Core.pdb
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoListApp.Dal.csproj.AssemblyReference.cache
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoListApp.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoListApp.Dal.AssemblyInfoInputs.cache
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoListApp.Dal.AssemblyInfo.cs
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoListApp.Dal.csproj.CoreCompileInputs.cache
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoList.58AD01BB.Up2Date
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoListApp.Dal.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\refint\ToDoListApp.Dal.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoListApp.Dal.pdb
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ref\ToDoListApp.Dal.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\bin\Debug\net8.0\ToDoListApp.Dal.runtimeconfig.json
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Dal\obj\Debug\net8.0\ToDoListApp.Dal.genruntimeconfig.cache

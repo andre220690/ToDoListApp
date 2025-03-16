@@ -1,0 +1,17 @@
+.block {
+    min-height: 100vh;
+}
+
+.todoConteiner {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* Стили для экранов меньше 550 НО НЕ РАБОТАЕТ пикселей */
+@media (max-width: 549px) {
+    .todoConteiner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

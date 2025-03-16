@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ToDoListApp\\ToDoListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C044-20C9-445A-8003-5DA529D24940}|ToDoListApp.Api\\ToDoListApp.Api.csproj|c:\\projects\\todolistapp\\todolistapp\\todolistapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55E6C044-20C9-445A-8003-5DA529D24940}|ToDoListApp.Api\\ToDoListApp.Api.csproj|solutionrelative:todolistapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1660AE-523C-4C64-B4D6-37C873D779BD}|ToDoListApp.Auth\\ToDoListApp.Auth.csproj|c:\\projects\\todolistapp\\todolistapp\\todolistapp.auth\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1660AE-523C-4C64-B4D6-37C873D779BD}|ToDoListApp.Auth\\ToDoListApp.Auth.csproj|solutionrelative:todolistapp.auth\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1660AE-523C-4C64-B4D6-37C873D779BD}|ToDoListApp.Auth\\ToDoListApp.Auth.csproj|c:\\projects\\todolistapp\\todolistapp\\todolistapp.auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1660AE-523C-4C64-B4D6-37C873D779BD}|ToDoListApp.Auth\\ToDoListApp.Auth.csproj|solutionrelative:todolistapp.auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C044-20C9-445A-8003-5DA529D24940}|ToDoListApp.Api\\ToDoListApp.Api.csproj|c:\\projects\\todolistapp\\todolistapp\\todolistapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E6C044-20C9-445A-8003-5DA529D24940}|ToDoListApp.Api\\ToDoListApp.Api.csproj|solutionrelative:todolistapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C044-20C9-445A-8003-5DA529D24940}|ToDoListApp.Api\\ToDoListApp.Api.csproj|c:\\projects\\todolistapp\\todolistapp\\todolistapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55E6C044-20C9-445A-8003-5DA529D24940}|ToDoListApp.Api\\ToDoListApp.Api.csproj|solutionrelative:todolistapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoListApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Api\\appsettings.json",
+              "RelativeToolTip": "ToDoListApp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T07:19:06.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Auth\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ToDoListApp.Auth\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Auth\\Services\\AuthService.cs",
+              "RelativeToolTip": "ToDoListApp.Auth\\Services\\AuthService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T07:18:54.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Auth\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "ToDoListApp.Auth\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Auth\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "ToDoListApp.Auth\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T07:18:17.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListApp.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Api\\Program.cs",
+              "RelativeToolTip": "ToDoListApp.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:31:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDoListApp.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\ToDoListApp\\ToDoListApp\\ToDoListApp.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDoListApp.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T06:30:31.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\bin\Debug\net8.0\ToDoListApp.Auth.deps.json
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\bin\Debug\net8.0\ToDoListApp.Auth.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\bin\Debug\net8.0\ToDoListApp.Auth.pdb
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ToDoListApp.Auth.csproj.AssemblyReference.cache
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ToDoListApp.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ToDoListApp.Auth.AssemblyInfoInputs.cache
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ToDoListApp.Auth.AssemblyInfo.cs
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ToDoListApp.Auth.csproj.CoreCompileInputs.cache
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ToDoListApp.Auth.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\refint\ToDoListApp.Auth.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ToDoListApp.Auth.pdb
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ref\ToDoListApp.Auth.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\bin\Debug\net8.0\ToDoListApp.Core.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\bin\Debug\net8.0\ToDoListApp.Dal.dll
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\bin\Debug\net8.0\ToDoListApp.Core.pdb
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\bin\Debug\net8.0\ToDoListApp.Dal.pdb
+C:\Projects\ToDoListApp\ToDoListApp\ToDoListApp.Auth\obj\Debug\net8.0\ToDoList.C81EB1FD.Up2Date

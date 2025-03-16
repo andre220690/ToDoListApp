@@ -1,0 +1,38 @@
+version: "3.9"
+
+volumes:
+  todo-list-app-db:
+
+services:
+  todo-list-app-db:
+    image: postgres:latest
+    container_name: todo-list-app-db
+    environment:
+      POSTGRES_DB: todo-list-app-db
+      POSTGRES_USER: test
+      POSTGRES_PASSWORD: test
+    ports:
+      - "5411:5432"
+    volumes:
+      - todo-list-app-db:/var/lib/postgresql/data
+
+  todo-list-app-server:
+    build:
+      context: ./ToDoListApp
+      dockerfile: Dockerfile
+    container_name: todo-list-app-server
+    environment:
+      DB_SETTING: Host=todo-list-app-db;Port=5432;User id=test;password=test;database=todo-list-app-db
+    depends_on:
+      - todo-list-app-db
+    ports:
+      - "8081:8081"
+      - "8080:8080"
+
+  todo-list-app-web:
+    build:
+      context: ./todo-list-app
+      dockerfile: Dockerfile
+    container_name: todo-list-app-web
+    ports:
+      - "80:80" 
